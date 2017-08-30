@@ -1,0 +1,38 @@
+content: []
+description: '      Free Motivation for Empowerment within You'
+title: 'We Never Fail '
+content_rating:
+  adult: false
+layout_spectrum: 0.5
+github: true
+author:
+  url: weneverfail.com
+  name: Kane Jones
+  email: kaneticenterprise@icloud.com
+name: WeNeverFail.com
+analytics: {}
+opengraph: {}
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+color:
+  brandStrength: 0.5598585762921392
+  lightness: 0.806788600237758
+  saturation: 0.8713975138662843
+  rhythmicContrast: 0.7050176811649039
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+typography_spectrum: 0.5
